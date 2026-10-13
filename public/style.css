@@ -232,7 +232,7 @@ tbody tr:hover {
         page-break-after: auto;
     }
 }
-```css
+
 /* Organiza o formulário e a tabela */
 main {
     display: grid;
@@ -319,4 +319,3 @@ td.actions button {
         width: 100%;
     }
 }
-```
