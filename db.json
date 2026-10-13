@@ -1,0 +1,52 @@
+{
+  "alunos": [
+    {
+      "id": 5,
+      "nome": "TESTE",
+      "email": "teste@hotmail.com",
+      "cpf": "125.456.789-00",
+      "telefone": "(61) 99999-9999",
+      "curso": "Engenharia de Software"
+    },
+    {
+      "id": 6,
+      "nome": "Teste",
+      "email": "teste@gmail.com",
+      "cpf": "123.456.789-00",
+      "telefone": "(61) 966999-9999",
+      "curso": "Engenharia de Software"
+    },
+    {
+      "id": 7,
+      "nome": "Teste",
+      "email": "teste@gmail.com",
+      "cpf": "123.456.789-00",
+      "telefone": "(61) 99999-9999",
+      "curso": "Engenharia de Software"
+    },
+    {
+      "id": 8,
+      "nome": "gerger",
+      "email": "rgregre@hotmail.com",
+      "cpf": "123.456.789-00",
+      "telefone": "(61) 99999-9999",
+      "curso": "Engenharia de Software"
+    },
+    {
+      "id": 9,
+      "nome": "Marcella Rodrigues Dantas",
+      "email": "marcella.dantas@gmail.comdantas",
+      "cpf": "08944924113",
+      "telefone": "61 99584858",
+      "curso": "Engenharia de Software"
+    },
+    {
+      "id": 10,
+      "nome": "Marcella Rodrigues Dantas",
+      "email": "fgvvugvnfo@gmail.com",
+      "cpf": "64765776349",
+      "telefone": "61664759884",
+      "curso": "Análise de Sistemas"
+    }
+  ]
+}
